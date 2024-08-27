@@ -1,6 +1,7 @@
 # Attendance System Smart Contract
 
-![image](https://github.com/user-attachments/assets/83748451-8464-4f95-a5bc-1159d219bddf)
+![classroom-2787754_1280](https://github.com/user-attachments/assets/99e01e3d-11cf-4fc4-8259-fb91ccc92808)
+
 
 
 ## Vision
