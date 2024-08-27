@@ -1,5 +1,3 @@
-
-
 # Attendance System Smart Contract
 
 ## Vision
@@ -35,7 +33,7 @@ The Attendance System Smart Contract aims to streamline the process of tracking 
 
 ## Contract Address
 - **Network**: Ethereum Mainnet / Rinkeby Testnet / Any other Ethereum-compatible network
-- **Contract Address**: (Replace with actual deployed contract address)
+- **Contract Address**: (0xd6a0210af8c17a936183baabb07b3668e88d8535374da13ce1d8b621db26d739)
 
 ## Future Scope
 1. **Enhanced Reporting**: Integrate more detailed reporting features for attendance and performance analytics.
@@ -43,6 +41,7 @@ The Attendance System Smart Contract aims to streamline the process of tracking 
 3. **Integration**: Connect with a web or mobile interface for easier interaction and visualization.
 4. **Automated Reminders**: Implement automated notifications for attendance and grading updates.
 5. **Customizable Grading**: Allow dynamic adjustment of grading criteria based on different educational standards.
+   
 
 ## Contact Details
 For more information or queries regarding this project, please contact:
