@@ -1,5 +1,7 @@
 # Attendance System Smart Contract
 
+![Uploading image.png…]()
+
 
 ## Vision
 The Attendance System Smart Contract aims to streamline the process of tracking student attendance and assigning marks based on attendance. By leveraging blockchain technology, this contract ensures transparency, immutability, and ease of management for educators and students. The contract simplifies the administrative burden on teachers and provides a reliable way to evaluate student engagement throughout the semester.
